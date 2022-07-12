@@ -1,6 +1,5 @@
 const Card = ({ maxWidth, data }) => {
   const { title, thumb_url, short_description, content_url } = data;
-
   return (
     <a
       className="overflow-hidden "
@@ -10,14 +9,14 @@ const Card = ({ maxWidth, data }) => {
       rel="noreferrer">
       <img
         className="w-full h-[442px] rounded"
-        src={thumb_url}
+        src={`./assets/${thumb_url.slice(2)}`}
         alt="Sunset in the mountains"
       />
       <div className="p-1">
-        <div className="font-semibold text-center text-text-cl mb-2 min-h-[60px] break-normal line-clamp-2 text-ellipsis">
+        <div className="font-semibold text-center text-text-cl mb-2  break-normal line-clamp-2 text-ellipsis text-[14px] md:text-[20px] min-h-[30px] md:min-h-[60px]">
           {title}
         </div>
-        <p className="font-medium text-text-cl text-[14px] text-ellipsis line-clamp-3 capitalize break-normal">
+        <p className="font-medium text-text-cl text-ellipsis line-clamp-3 capitalize break-normal md:text-[14px] text-[10px]">
           {short_description}
         </p>
       </div>

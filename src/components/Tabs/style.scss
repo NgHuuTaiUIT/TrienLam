@@ -14,9 +14,9 @@
   display: flex;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  @media screen and (max-width: 768px) {
-    display: block;
-  }
+  // @media screen and (max-width: 768px) {
+  //   display: block;
+  // }
   .tabs {
     padding: 15px;
     text-align: center;
@@ -35,28 +35,16 @@
       background: $primary-bg;
     }
 
-    @media screen and (max-width: 768px) {
-      border-top-left-radius: 0;
-      border-top-right-radius: 0;
-    }
+    // @media screen and (max-width: 768px) {
+    //   border-top-left-radius: 0;
+    //   border-top-right-radius: 0;
+    // }
   }
 
   .active-tabs {
     background: $primary-bg;
     border-bottom: 1px solid transparent;
   }
-
-  // .active-tabs::before {
-  //   content: "";
-  //   display: block;
-  //   position: absolute;
-  //   top: -5px;
-  //   left: 50%;
-  //   transform: translateX(-50%);
-  //   width: calc(100% + 2px);
-  //   height: 5px;
-  //   background: rgb(88, 147, 241);
-  // }
 
   button {
     border: none;

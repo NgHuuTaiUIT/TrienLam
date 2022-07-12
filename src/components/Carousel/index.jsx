@@ -1,14 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 import Slider from "react-slick";
-import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import styles from "./style.module.scss";
-import data from "../../assets/data/data.json";
+import "slick-carousel/slick/slick.css";
 import Card from "./Card";
+import styles from "./style.module.scss";
 
 const Carousel = ({ data }) => {
-  console.log(data);
-
   const settings = {
     dots: false,
     infinite: false,
