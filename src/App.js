@@ -1,15 +1,13 @@
-import Carousel from "./components/Carousel";
-import datas from "./assets/data/data.json";
 import Tabs from "./components/Tabs";
-import { useGetData } from "./hooks/useGetData";
+import { IframeProvider } from "./context/ContentIframe";
 
 function App() {
-  const data = useGetData();
-  console.log(data);
   return (
-    <div className="App container-fluid">
-      <Tabs />
-    </div>
+        <IframeProvider>
+          <div className="App container-fluid bg-primary-bg h-[100vh]">
+            <Tabs />
+          </div>
+        </IframeProvider>
   );
 }
 

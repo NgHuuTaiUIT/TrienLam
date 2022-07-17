@@ -25,7 +25,7 @@ const TabItem = ({ items }) => {
       {items.map((item, idx) => (
         <div
           className={
-            currentSubTab === idx ? "content  active-content" : "content"
+            currentSubTab === idx ? "content active-content" : "content"
           }>
           <Carousel data={item} />
         </div>

@@ -33,6 +33,7 @@ function createWindow() {
   win.on("close", function () {
     win = null;
   });
+  win.setTitle("Nguyen Dinh Chieu");
 }
 
 // lắng nghe khi app sẵn sàng thì sẽ khởi tạo cửa sổ app
