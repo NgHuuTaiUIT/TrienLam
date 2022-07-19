@@ -1,4 +1,5 @@
 import { useContext, useState } from "react";
+import ReactPlayer from 'react-player';
 import { IframeContext, IframeProvider } from "../../context/ContentIframe";
 import { useGetData } from "../../hooks/useGetData";
 import { useWindowSize } from "../../hooks/useWindowSize";
@@ -18,9 +19,28 @@ function Tabs() {
     setToggleState(index);
   };
 
+  const renderIframe = () => <iframe src={contentIframe.content_url ?? ''} 
+                                title="W3Schools Free Online Web Tutorials" 
+                                className="h-full w-full"/>;
+
+  const renderVideo = () => <ReactPlayer
+                                url={contentIframe.content_url}
+                                width="100%"
+                                height="100%"
+                                controls={true}
+                                playing={true}
+                                muted={true}
+                              /> ;
+  const renderContent = () => {
+    if(contentIframe.type === "iframe"){
+      return renderIframe()
+    }else if (contentIframe.type === "youtube" || contentIframe.type === "video"){
+      return renderVideo()
+    }
+  }
   return (<>
-    {show && <div className="inset-0 h-full fixed z-10 top-0 bg-[rgba(0,0,0,0.4)]"> 
-        <iframe src={contentIframe ?? ''} title="W3Schools Free Online Web Tutorials" className="h-full w-full"></iframe> 
+    {show && <div className="inset-0 h-full fixed z-10 top-0 bg-[rgba(0,0,0,0.8)]"> 
+        {renderContent()}
         <button className="h-[70px] w-[70px] bg-[#fff] absolute z-20 top-5 right-2 md:right-8 rounded-full text-center leading-[70px] text-[70px] transition hover:scale-[1.2]" 
           onClick={()=>setShow(false)}>
           ×

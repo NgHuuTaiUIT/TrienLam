@@ -3,6 +3,7 @@ const app = electron.app;
 const BrowserWindow = electron.BrowserWindow;
 const path = require("path");
 const url = require("url");
+const AutoLaunch = require('auto-launch');
 //Đoạn trên không cần nói cùng biết là import và lấy một số thứ cần thiết từ electron rồi nhỉ :)
 // const isDev = require("electron-is-dev");
 let win; // khai báo biên win dùng để tạo lên một cửa sổ window của app
@@ -37,7 +38,16 @@ function createWindow() {
 }
 
 // lắng nghe khi app sẵn sàng thì sẽ khởi tạo cửa sổ app
-app.on("ready", createWindow);
+app.on("ready", ()=>{
+  let autoLaunch = new AutoLaunch({
+    name: 'NDC',
+    path: app.getPath('exe'),
+  });
+  autoLaunch.isEnabled().then((isEnabled) => {
+    if (!isEnabled) autoLaunch.enable();
+  });
+  createWindow()
+});
 
 // Khi close thì quit khỏi app
 app.on("window-all-closed", function () {
