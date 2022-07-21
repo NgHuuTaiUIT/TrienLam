@@ -1,16 +1,26 @@
-import Carousel from "./components/Carousel";
-import datas from "./assets/data/data.json";
 import Tabs from "./components/Tabs";
-import { useGetData } from "./hooks/useGetData";
+import { IframeProvider } from "./context/ContentIframe";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import { useEffect, useState } from "react";
+import { cloneDeep } from "lodash";
+import axios from "axios";
 
-function App() {
-  const data = useGetData();
-  console.log(data);
+function Layout() {
+  
   return (
-    <div className="App container-fluid">
-      <Tabs />
-    </div>
+        <IframeProvider>
+          <div className="App container-fluid bg-primary-bg h-[100vh]">
+            <Tabs />
+          </div>
+        </IframeProvider>
   );
 }
+
+function App() {
+  return  <Router basename={process.env.PUBLIC_URL}>
+    <Route exact path={``} component={Layout} />   
+  </Router>
+
+} 
 
 export default App;
