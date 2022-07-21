@@ -1,16 +1,34 @@
-import { useContext, useState } from "react";
+import axios from "axios";
+import { cloneDeep } from "lodash";
+import { useContext, useEffect, useState } from "react";
 import ReactPlayer from 'react-player';
 import { IframeContext, IframeProvider } from "../../context/ContentIframe";
 import { useGetData } from "../../hooks/useGetData";
 import { useWindowSize } from "../../hooks/useWindowSize";
-import { getCategories } from "../../utils/getData";
+import { getCategories, getData } from "../../utils/getData";
 import "./style.scss";
 import TabItem from "./tab-item";
 
 
 
 function Tabs() {
-  const categories = getCategories();
+  const [categories, setCategories] = useState([]);
+
+  useEffect(() => {
+    const callData = async () => {
+      let res = await axios.get(`${process.env.PUBLIC_URL}/assets/data/data.json`);
+      if(res.data){
+        setCategories(cloneDeep(res.data.categories));
+      }
+      else {
+        setCategories(getCategories());
+      }
+    }
+    callData();
+  }, []);
+  // console.log(`${process.env.PUBLIC_URL}/assets/data/data.json`);
+  // const categories = data?.categories ;
+  // const categories = getCategories();
   const tabs = categories.map(category => category.name);
   const contents = categories.map(category => category.sub_categories);
   const [toggleState, setToggleState] = useState(0);
@@ -49,7 +67,7 @@ function Tabs() {
     <div className="container-tabs w-full h-full">
       <ul className="bloc-tabs">
         {tabs.map((tab, idx) => (
-          <li
+          <li key={idx}
             className={`font-medium md:text-[22px] text-[14px] text-text-cl hover:bg-primary-bg break-normal py-[10px] px-[10px] md:px-[45px] ${
               toggleState === idx ? "tabs active-tabs" : "tabs"
             }`}
@@ -62,7 +80,7 @@ function Tabs() {
       <div className="content-tabs bg-primary-bg">
         <div className="sub-tab-wrapper  lg:px-[150px] px-[40px] pt-[20px] m-auto overflow-hidden">
           {contents.map((content, idx) => (
-            <div
+            <div key={idx}
               className={`sub-tab ${
                 toggleState === idx ? "block animate-fadeIn" : "hidden"
               }`}>

@@ -10,7 +10,7 @@ const TabItem = ({ items }) => {
     <>
       <div className="flex flex-wrap lg:flex-nowrap lg:mx-6 custom-scroll-bar lg:overflow-x-auto lg:justify-start justify-around">
         {subTabs.map((item, idx) => (
-          <button
+          <button key={idx}
             className={classNames(
               `flex items-center justify-center mr-3 py-1 px-3 md:px-7 md:py-3 md:my-2 my-1 rounded-lg text-primary-bg bg-text-cl border-solid outline-none border border-[#ccc] hover:bg-[#e6e6e6] transition-[background-image] w-[42%] lg:w-auto`,
               `${currentSubTab === idx && "bg-[#e6e6e6] font-semibold"}`

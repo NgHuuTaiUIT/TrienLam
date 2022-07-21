@@ -21,7 +21,8 @@ const Card = ({ maxWidth, data }) => {
         }}>
       <img
         className="w-full h-[442px] rounded"
-        src={`./assets/${thumb_url.slice(2)}`}
+        // src={`./assets/${thumb_url.slice(2)}`}
+        src={`${thumb_url}`}
         alt="Sunset in the mountains"
       />
       <div className="p-1">

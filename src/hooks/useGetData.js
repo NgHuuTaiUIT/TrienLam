@@ -5,12 +5,12 @@ export const useGetData = () => {
   const [newsData, setNewsData] = useState(null);
   useEffect(() => {
     const api = async () => {
-      await fetch("assets/data/data.json", {
+      await fetch(`${process.env.PUBLIC_URL}/assets/data/data.json`, {
         method: "GET",
-        headers: {
-          "Content-Type": "application/json",
-          Accept: "application/json"
-        }
+        // headers: {
+        //   "Content-Type": "application/json",
+        //   Accept: "application/json"
+        // }
       })
         .then(res => console.log(res.json()))
         .then(data => {
