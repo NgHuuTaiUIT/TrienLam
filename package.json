@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "private": true,
   "main": "public/electron.js",
-  "homepage": "/ndc/research/",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
