@@ -1,11 +1,35 @@
 import { useContext, useEffect, useState } from "react";
 import { IframeContext } from "../../context/ContentIframe";
-
 var x = 0;
 
 const Card = ({ maxWidth, data }) => {
   const { title, thumb_url, short_description, content_url,type } = data;
   const {setContentIframe,setShow} = useContext(IframeContext);
+  const [srcImg, setSrcImg] = useState(thumb_url);
+  useEffect(()=>{
+    if(window.navigator.onLine ){
+      setSrcImg(thumb_url) 
+    } 
+    else{
+      // convert64(thumb_url) // Path to the image
+      // .then(
+      //     (response) => {
+      //       setSrcImg(`data:image/jpg;base64, ${response}`)
+      //     }
+      // )
+      // .catch(
+      //     (error) => {
+      //         console.log(error); // Logs an error if there was one
+      //     }
+      // )
+
+      // getBase64(thumb_url,(result)=>{
+      //   console.log(result);
+      // })
+    }
+
+
+  },[])
   return (
     <div
       className="overflow-hidden cursor-pointer"
@@ -22,7 +46,7 @@ const Card = ({ maxWidth, data }) => {
       <img
         className="w-full h-[442px] rounded"
         // src={`./assets/${thumb_url.slice(2)}`}
-        src={`${thumb_url}`}
+        src={srcImg}
         alt="Sunset in the mountains"
       />
       <div className="p-1">

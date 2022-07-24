@@ -12,8 +12,8 @@
                             "sub_category_id": 1,
                             "type": "iframe",
                             "title" : "Lục Vân Tiên truyện xuất bản năm 1865",
-                            "short_description" : "Đây 1 là bản in cổ nhất, do Duy Minh Thị ở Gia Định thành đính chính, khắc in ở Quảng Đông (Trung Quốc), Quảng Thạnh Nam phát thụ (bán ra), Bảo Hoa Các tàng bản",
-                            "thumb_url" : "./assets/ndc_data/31/1. III. 1. S1.jpg",
+                            "short_description" : "Đây là bản in cổ nhất, do Duy Minh Thị ở Gia Định thành đính chính, khắc in ở Quảng Đông (Trung Quốc), Quảng Thạnh Nam phát thụ (bán ra), Bảo Hoa Các tàng bản",
+							"thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/1. III. 1. S1.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/kzoj/"
                         },
                         {
@@ -21,7 +21,7 @@
                             "type": "iframe",
                             "title" : "Lục Vân Tiên truyện - 1872",
                             "short_description" : "Duy Minh Thị ở Gia Định thành đính chính, Thiên Bảo Lâu tàng bản",
-                            "thumb_url" : "./assets/ndc_data/31/1. III.1.S5 - bìa.JPG",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/1. III.1.S5 - bìa.JPG",
                             "content_url" : "https://online.pubhtml5.com/wycd/nesp/"
                         },
                         {
@@ -29,7 +29,7 @@
                             "type": "iframe",
                             "title" : "Lục Vân Tiên truyện",
 							"short_description" : "đây là bản in lần thứ 2, do Bảo Hoa Các phát hành, Thiền Phước Lộc đại nhai, Duy Minh Thị đính chính",
-                            "thumb_url" : "./assets/ndc_data/31/2. III.1.S6 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/2. III.1.S6 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/xwkk/"
                         },
 						{
@@ -37,7 +37,7 @@
                             "type": "iframe",
                             "title" : "Lục Vân Tiên ca diễn, xuất bản năm 1883",
                             "short_description" : "Đây là bản Nôm do Duy Minh Thị đính chính",
-                            "thumb_url" : "./assets/ndc_data/31/4. III.1.S2.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/4. III.1.S2.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/gqlf/"
                         },
 						{
@@ -45,7 +45,7 @@
                             "type": "iframe",
                             "title" : "Lục Vân Tiên truyện",
                             "short_description" : "Do Duy Minh Thị ở Gia Định thành đính chính, Thiên Bảo Lâu (Quảng Đông) tàng bản",
-                            "thumb_url" : "./assets/ndc_data/31/5. III. 1.S3.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/5. III. 1.S3.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/oxfm/"
                         },
 						{
@@ -53,7 +53,7 @@
                             "type": "iframe",
                             "title" : "Bản Nôm Lục Vân Tiên 1883",
                             "short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/31/6. BAN NOM LUC VAN TIEN 1883.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/6. BAN NOM LUC VAN TIEN 1883.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/qjoh/"
                         },
 						{
@@ -61,7 +61,7 @@
                             "type": "iframe",
                             "title" : "Dương Từ - Hà Mậu cổ thư",
                             "short_description" : "do Quách Đăng Vân cung lục (cung kính chép lại) năm Giáp Thân",
-                            "thumb_url" : "./assets/ndc_data/chu_nom/7. III.1.S33.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/7. III.1.S33.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/coyf/"
                         },
 						{
@@ -69,7 +69,7 @@
                             "type": "iframe",
                             "title" : "Dương Từ - Hà Mậu cổ thư",
                             "short_description" : "đây là bản Nôm chép tay do Vũ Văn Kính thực hiện tháng 7/1980, chép lại bản của Quách Đăng Vân",
-                            "thumb_url" : "./assets/ndc_data/chu_nom/8. III.1.S34.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/8. III.1.S34.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/cnnr/"
                         },
 						{
@@ -77,7 +77,7 @@
                             "type": "iframe",
                             "title" : "Dương Từ - Hà Mậu",
                             "short_description" : "Bản chép tay chữ Hán - Nôm",
-                            "thumb_url" : "./assets/ndc_data/chu_nom/9. DUONG TU HA MAU - bản chép tay Hán - Nôm.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/9. DUONG TU HA MAU - bản chép tay Hán - Nôm.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/qmpe/"
                         },
 						{
@@ -85,7 +85,7 @@
                             "type": "iframe",
                             "title" : "Ngư Tiều vấn đáp nho y diễn ca",
                             "short_description" : "đây là bản Nôm do Nam Trung ẩn sĩ Hối Trai tu soạn, Vũ Văn Kính sao lục (chép lại), năm Tân Hợi (1971)",
-                            "thumb_url" : "./assets/ndc_data/chu_nom/10. III.1.S38 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/10. III.1.S38 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/skxz/"
                         },
 						{
@@ -93,7 +93,7 @@
                             "type": "iframe",
                             "title" : "Văn tế nghĩa sĩ Cần Giuộc",
                             "short_description" : "Bản photo do bà Châu Anh Phụng sưu tầm tặng cho Bảo tàng Bến Tre",
-                            "thumb_url" : "./assets/ndc_data/chu_nom/11. III.2.S1.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/11. III.2.S1.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/tybr/"
                         },
 						{
@@ -101,7 +101,7 @@
                             "type": "iframe",
                             "title" : "Lục tỉnh sĩ dân trận vong văn",
                             "short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/chu_nom/12. III.2.V2.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/12. III.2.V2.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/ujav/"
                         },
 						{
@@ -109,7 +109,7 @@
                             "type": "iframe",
                             "title" : "Điếu Trương tướng quân văn",
                             "short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/chu_nom/13. III.2.V3.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/13. III.2.V3.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/zdhp/"
                         },
 						{
@@ -117,7 +117,7 @@
                             "type": "iframe",
                             "title" : "Thảo thử hịch",
                             "short_description" : "Nguyễn Văn Y sưu tầm",
-                            "thumb_url" : "./assets/ndc_data/chu_nom/14. III.3.S2.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/14. III.3.S2.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/oahl/"
                         },
 						{
@@ -125,7 +125,7 @@
                             "type": "iframe",
                             "title" : "Điếu Ba Tri Đốc binh Phan công trận vong thập thủ",
                             "short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/chu_nom/15. III.2.V4.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/15. III.2.V4.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/tqbl/"
                         },
 						{
@@ -133,7 +133,7 @@
                             "type": "iframe",
                             "title" : "Điếu Đông Các Đại học sĩ Phan công nhị thủ",
                             "short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/chu_nom/16. III.2.S5.1.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_nom/16. III.2.S5.1.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/buyo/"
                         }
                     ]
@@ -148,7 +148,7 @@
                             "type": "iframe",
                             "title" : "Lục Vân Tiên truyện - 1957",
 							"short_description" : "Hoàng Ngọc Phách, Lê Trí Viễn, Vũ Đình Liên bình luận, hiệu đính, chú thích, Bộ Giáo dục (Hà Nội) xuất bản",
-                            "thumb_url" : "./assets/ndc_data/31/3. III.1.S26 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/3. III.1.S26 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/qeom/"
                         },
                         {
@@ -156,7 +156,7 @@
                             "type": "iframe",
                             "title" : "Thơ Lục Vân Tiên",
 							"short_description" : "(sao y bổn cũ của bà Huỳnh Kim Danh), 1967, soạn giả Nguyễn Chánh Sắt, Nhà sách Phạm Văn Cường (Chợ Lớn) xuất bản",
-                            "thumb_url" : "./assets/ndc_data/31/4. III.1.S27 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/4. III.1.S27 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/wdoh/"
                         },
 						{
@@ -164,7 +164,7 @@
                             "type": "iframe",
                             "title" : "Lục Vân Tiên tường chú - 1974",
                             "short_description" : "Ngọc Hồ, Nhất Tâm khảo dịch, chú dẫn, Sống Mới xuất bản",
-                            "thumb_url" : "./assets/ndc_data/31/5. III.1.S28 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/5. III.1.S28 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/synm/"
                         },
 						{
@@ -172,7 +172,7 @@
                             "type": "iframe",
                             "title" : "Truyện Lục Vân Tiên",
 							"short_description" : "Hà Huy Giáp, Nguyễn Thạch Giang, Nhà xuất bản Đại học và Trung học chuyên nghiệp năm 1975",
-                            "thumb_url" : "./assets/ndc_data/chu_quoc_ngu/20._truyen_luc_van_tien_nha_xuat_ban_dai_hoc_va_trung_hoc_chuyen_nghiep_1975.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/20._truyen_luc_van_tien_nha_xuat_ban_dai_hoc_va_trung_hoc_chuyen_nghiep_1975.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/jzng/"
                         },
                         {
@@ -180,7 +180,7 @@
                             "type": "iframe",
                             "title" : "Lục Vân Tiên - 1982",
 							"short_description" : "Viện Khoa học xã hội tại Thành phố Hồ Chí Minh và Ty Văn hóa và Thông tin tỉnh Bến Tre hợp tác, Ty Văn hóa và Thông tin tỉnh Bến Tre xuất bản",
-                            "thumb_url" : "./assets/ndc_data/31/6. III.1.S29 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/6. III.1.S29 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/uszt/"
                         },
                         {
@@ -188,7 +188,7 @@
                             "type": "iframe",
                             "title" : "Dị bản mới truyện Lục Vân Tiên - 1998",
 							"short_description" : "Trường Thành, Nxb Giáo dục, TP.HCM",
-                            "thumb_url" : "./assets/ndc_data/31/7. III.1.S30 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/7. III.1.S30 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/pfal/"
                         },
                         {
@@ -196,7 +196,7 @@
                             "type": "iframe",
                             "title" : "Lục Vân Tiên",
 							"short_description" : "Nguyễn Quảng Tuân phiên âm và chú thích, 2007, Nhà xuất bản Văn học",
-                            "thumb_url" : "./assets/ndc_data/chu_quoc_ngu/23._LUC_VAN_TIEN_TRUYEN_NGUYEN_QUANG_TUAN.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/23._LUC_VAN_TIEN_TRUYEN_NGUYEN_QUANG_TUAN.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/fhra/"
                         },
 						{
@@ -204,7 +204,7 @@
                             "type": "iframe",
                             "title" : "Thơ văn yêu nước và truyện thơ Lục Vân Tiên",
 							"short_description" : "Xuất bản năm 2020, Nhà xuất bản Hội nhà văn",
-                            "thumb_url" : "./assets/ndc_data/31/8. III.1.S32 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/8. III.1.S32 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/jmqy/"
                         },
 						{
@@ -212,7 +212,7 @@
                             "type": "iframe",
                             "title" : "Lục Vân Tiên",
                             "short_description" : "Nguyễn Thanh Tâm chú thích, Nhà xuất bản Tân Việt",
-                            "thumb_url" : "./assets/ndc_data/chu_quoc_ngu/25._Luc_Van_Tien_Nguyen_Thanh_Tam_dich_NXB_Tan_Viet.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/25._Luc_Van_Tien_Nguyen_Thanh_Tam_dich_NXB_Tan_Viet.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/bxma/"
                         },
                         {
@@ -220,7 +220,7 @@
                             "type": "iframe",
                             "title" : "Lục Vân Tiên và phụ lục tiểu sử tác giả",
 							"short_description" : "Hoàng Văn Hà chú thích, GS. Nguyễn Huy hiệu đính, Á Châu xuất bản cục",
-                            "thumb_url" : "./assets/ndc_data/chu_quoc_ngu/26._Luc_Van_Tien_va_phu_luc_tieu_su_TG_Hoang_Van_Ha.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/26._Luc_Van_Tien_va_phu_luc_tieu_su_TG_Hoang_Van_Ha.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/ikip/"
                         },
 						{
@@ -228,7 +228,7 @@
                             "type": "iframe",
                             "title" : "Dương Từ - Hà Mậu, 1964",
                             "short_description" : "Phan Văn Hùm sao lục và hiệu đính, Tân Việt xuất bản lần thứ nhất.",
-                            "thumb_url" : "./assets/ndc_data/31/9. III.1.S36 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/9. III.1.S36 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/bfpz/"
                         },
                         {
@@ -236,7 +236,7 @@
                             "type": "iframe",
                             "title" : "Dương Từ - Hà Mậu, 1982",
 							"short_description" : "Viện Khoa học xã hội tại Thành phố Hồ Chí Minh, Ty Văn hóa và Thông tin Long An hợp tác, Nxb Tổng hợp tỉnh Long An xuất bản",
-                            "thumb_url" : "./assets/ndc_data/31/10. III.1.S37 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/10. III.1.S37 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/gbfv/"
                         },
                         {
@@ -244,7 +244,7 @@
                             "type": "iframe",
                             "title" : "Ngư Tiều y thuật vấn đáp",
 							"short_description" : "Xuất bản 1982, Viện Khoa học xã hội tại Thành phố Hồ Chí Minh và Ty Văn hóa và Thông tin Long An hợp tác, Ty Văn hóa và Thông tin Long An xuất bản",
-                            "thumb_url" : "./assets/ndc_data/31/12. III.1.S42 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/12. III.1.S42 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/wpxq/"
                         },
                         {
@@ -252,7 +252,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu với Ngư Tiều vấn đáp y thuật",
 							"short_description" : "Xuất bản năm 1983, Lê Trần Đức, Nxb Y học",
-                            "thumb_url" : "./assets/ndc_data/31/11. III.1.S39 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/11. III.1.S39 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/usjq/"
                         },
 						{
@@ -260,7 +260,7 @@
                             "type": "iframe",
                             "title" : "Thơ văn yêu nước nửa sau thế kỷ XIX (1858 -1900)",
 							"short_description" : "Năm 1976, Chu Thiên, Đặng Huy Vận, Nguyễn Bỉnh Khôi biên soạn, Nxb Văn học Văn học, Hà Nội",
-                            "thumb_url" : "./assets/ndc_data/chu_quoc_ngu/31._tho_van_yeu_nuoc_nua_sau_thekyXIX_1850_1900.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/31._tho_van_yeu_nuoc_nua_sau_thekyXIX_1850_1900.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/zvpo/"
                         },
                         {
@@ -268,7 +268,7 @@
                             "type": "iframe",
                             "title" : "Thơ văn yêu nước chống Pháp, 1982",
 							"short_description" : "Viện Khoa học xã hội tại TP.HCM, Ty Văn hóa và Thông tin tỉnh Bến Tre hợp tác. Ty Văn hóa và Thông tin tỉnh Bến Tre xuất bản",
-                            "thumb_url" : "./assets/ndc_data/chu_quoc_ngu/5. IV.2.S7.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/chu_quoc_ngu/5. IV.2.S7.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/qddh/"
                         }
                     ]
@@ -288,7 +288,7 @@
                             "type": "iframe",
                             "title" : "Nam Kỳ Tuần báo",
                             "short_description" : "số đặc biệt kỷ niệm Nguyễn Đình Chiểu, ngày 26/6/1943",
-                            "thumb_url" : "./assets/ndc_data/42/1. IV.2.S2 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/1. IV.2.S2 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/mlje/"
                         },
                         {
@@ -296,7 +296,7 @@
                             "type": "iframe",
                             "title" : "Văn Đàn",
 							"short_description" : "số đặc biệt Nguyễn Đình Chiểu xuất bản tháng 7/1962",
-                            "thumb_url" : "./assets/ndc_data/42/2. IV.2.S3 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/2. IV.2.S3 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/vlym/"
                         },
                         {
@@ -304,7 +304,7 @@
                             "type": "iframe",
                             "title" : "Văn hóa tập san",
 							"short_description" : "số 3/4/1971 số đặc biệt kỷ niệm Nguyễn Đình Chiểu",
-                            "thumb_url" : "./assets/ndc_data/42/3. IV.2.S4 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/3. IV.2.S4 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/txsn/"
                         },
                         {
@@ -312,7 +312,7 @@
                             "type": "iframe",
                             "title" : "Sưu tập những bài báo về Nguyễn Đình Chiểu",
 							"short_description" : "1971, Phủ Quốc Vụ khanh đặc trách Văn hóa",
-                            "thumb_url" : "./assets/ndc_data/42/4. IV.2.S8 - ST BÁO - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/4. IV.2.S8 - ST BÁO - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/vpjl/"
                         },
 						{
@@ -320,7 +320,7 @@
                             "type": "iframe",
                             "title" : "Sưu tập bổ túc các bài báo về Nguyễn Đình Chiểu",
 							"short_description" : "1971, Phủ Quốc Vụ khanh đặc trách Văn hóa",
-                            "thumb_url" : "./assets/ndc_data/42/12. IV.2.S7 - SƯU TẬP BỔ TÚC - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/12. IV.2.S7 - SƯU TẬP BỔ TÚC - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/rwjj/"
                         },
 						{
@@ -328,7 +328,7 @@
                             "type": "iframe",
                             "title" : "Kỷ yếu Lễ kỷ niệm Nguyễn Đình Chiểu",
 							"short_description" : "1971, Phủ Quốc Vụ khanh đặc trách Văn hóa",
-                            "thumb_url" : "./assets/ndc_data/41/9. IV.4.S3 -KỶ YẾU.JPG",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/9. IV.4.S3 -KỶ YẾU.JPG",
                             "content_url" : "https://online.pubhtml5.com/wycd/rrbk/"
                         },
                         {
@@ -336,7 +336,7 @@
                             "type": "iframe",
                             "title" : "Tạp chí Văn nghệ Bến Tre",
 							"short_description" : "Kỷ niệm Ngày sinh nhà thơ Nguyễn Đình Chiểu và chào mừng Đại hội Đảng bộ Bến Tre lần thứ 2, 1979, Hội Văn nghệ Nguyễn Đình Chiểu xuất bản",
-                            "thumb_url" : "./assets/ndc_data/42/6. IV.2.S10 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/6. IV.2.S10 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/noud/"
                         },
 						{
@@ -344,7 +344,7 @@
                             "type": "iframe",
                             "title" : "Tạp chí Xưa và Nay số 540 chuyên đề về Nguyễn Đình Chiểu, tháng 6/2022",
 							"short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/41/11. Tap chi X&Nay so 540 Chuyen de Nguyen Dinh Chieu 18-6-2022 All.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/11. Tap chi X&Nay so 540 Chuyen de Nguyen Dinh Chieu 18-6-2022 All.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/bfoq/"
                         },
                         {
@@ -352,7 +352,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu (1822 -1888)",
 							"short_description" : "1958, Vũ Đình Liên, Nxb Văn hóa. Tái bản in lần đầu 1955",
-                            "thumb_url" : "./assets/ndc_data/42/8. IV.2.S14 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/8. IV.2.S14 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/qwom/"
                         },
 						{
@@ -360,7 +360,7 @@
                             "type": "iframe",
                             "title" : "Dương Từ - Hà Mậu",
 							"short_description" : "1973, sinh viên đệ trình Nguyễn Công Khai, Trường Đại học Văn-Khoa, Viện Đại học Sài Gòn (tiểu luận)",
-                            "thumb_url" : "./assets/ndc_data/42/10. IV.2.S16 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/10. IV.2.S16 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/bisw/"
                         },
 						{
@@ -368,7 +368,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu tấm gương yêu nước và lao động nghệ thuật",
 							"short_description" : "Nhiều tác giả, Nhà xuất bản Khoa học xã hội 1973",
-                            "thumb_url" : "./assets/ndc_data/bai_viet_va_cong_trinh_nghien_cuu/14.  tam guong yeu nuoc va ld nghe thuat - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/14.  tam guong yeu nuoc va ld nghe thuat - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/fwhp/"
                         },
                         {
@@ -376,7 +376,7 @@
                             "type": "iframe",
                             "title" : "Những ngày cuối cùng của Nguyễn Đình Chiểu",
 							"short_description" : "1975, Vũ Đình Liên, tập thơ viết tay gửi tặng GS. Ca Văn Thỉnh",
-                            "thumb_url" : "./assets/ndc_data/bai_viet_va_cong_trinh_nghien_cuu/11. IV.2.S17 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/11. IV.2.S17 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/hohh/"
                         },
                         {
@@ -384,7 +384,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu toàn tập, tập 1, 1980",
 							"short_description" : "Nxb Đại học và Trung học chuyên nghiệp, Hà Nội",
-                            "thumb_url" : "./assets/ndc_data/bai_viet_va_cong_trinh_nghien_cuu/16. IV.2.S18 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/16. IV.2.S18 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/stsv/"
                         },
                         {
@@ -392,7 +392,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu toàn tập, tập 2, 1982",
 							"short_description" : "Nxb Đại học và Trung học chuyên nghiệp, Hà Nội",
-                            "thumb_url" : "./assets/ndc_data/bai_viet_va_cong_trinh_nghien_cuu/17. IV.2.S19 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/17. IV.2.S19 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/aapf/"
                         },
                         {
@@ -400,7 +400,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu ngôi sao sáng của người trí thức Việt Nam",
 							"short_description" : "1982, Vũ Khiêu, Nguyễn Đức Sự, Nxb Khoa học Xã hội",
-                            "thumb_url" : "./assets/ndc_data/42/13. IV.2.S20 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/13. IV.2.S20 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/feas/"
                         },
                         {
@@ -408,7 +408,7 @@
                             "type": "iframe",
                             "title" : "Một số tư liệu về cuộc đời và thơ văn Nguyễn Đình Chiểu",
 							"short_description" : "Nhiều tác giả, Nhà xuất bản Khoa học",
-                            "thumb_url" : "./assets/ndc_data/bai_viet_va_cong_trinh_nghien_cuu/19. Một số tư liệu về cuộc đời và thơ văn Nguyễn Đình Chiểu.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/19. Một số tư liệu về cuộc đời và thơ văn Nguyễn Đình Chiểu.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/djgv/"
                         },
                         {
@@ -416,7 +416,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu ngôi sao càng nhìn càng sáng",
 							"short_description" : "1982, Lê Trí Viễn, Nxb TP.HCM, tái bản 2002",
-                            "thumb_url" : "./assets/ndc_data/42/14. IV.2.S21 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/14. IV.2.S21 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/yvbh/"
                         },
                         {
@@ -424,7 +424,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu trong cuộc đời, 1982",
 							"short_description" : "Thạch Phương chủ biên; Văn Đình Hy, Huỳnh Ngọc Trảng, Trần Thị Tuyết Hoa, Vũ Văn Ngọc, Nguyễn Văn Kim. Viện Khoa học xã hội tại TP.HCM, Ty Văn hóa và Thông tin tỉnh Bến Tre",
-                            "thumb_url" : "./assets/ndc_data/bai_viet_va_cong_trinh_nghien_cuu/IV.2.S22 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/IV.2.S22 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/fozg/"
                         },
                         {
@@ -432,7 +432,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu đạo làm người",
 							"short_description" : "1983, Trần Văn Giàu, Sở Văn hóa và Thông tin Long An",
-                            "thumb_url" : "./assets/ndc_data/42/15. IV.2.23 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/15. IV.2.23 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/ujna/"
                         },
                         {
@@ -440,7 +440,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu với văn hóa Việt Nam",
 							"short_description" : "1983, Cao Tự Thanh, Huỳnh Ngọc Trảng, Sở Văn hóa và Thông tin Long An",
-                            "thumb_url" : "./assets/ndc_data/42/16. IV.2.S24 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/16. IV.2.S24 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/krww/"
                         },
 						{
@@ -448,7 +448,7 @@
                             "type": "iframe",
                             "title" : "Nhớ về đôi mắt",
 							"short_description" : "1987, Bảo Định Giang, Sở Văn hóa và Thông tin tỉnh Bến Tre",
-                            "thumb_url" : "./assets/ndc_data/42/9. IV.2.S15 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/9. IV.2.S15 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/eaxf/"
                         },
                         {
@@ -456,7 +456,7 @@
                             "type": "iframe",
                             "title" : "Đuốc lá dừa",
 							"short_description" : "1995, Hoài Anh, Nxb Trẻ",
-                            "thumb_url" : "./assets/ndc_data/42/17. IV.2.S25 - Đuốc lá dừa - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/17. IV.2.S25 - Đuốc lá dừa - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/xypq/"
                         },
                         {
@@ -464,7 +464,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu (1822 - 1888), nhà thơ lớn, nhà văn hóa kiệt xuất",
 							"short_description" : "2020, Nguyễn Chí Bền, Nxb Thế giới, Hà Nội.(chữ Anh - chữ Việt - chữ Pháp)",
-                            "thumb_url" : "./assets/ndc_data/bai_viet_va_cong_trinh_nghien_cuu/26. IV.2.S26 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/26. IV.2.S26 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/cxnh/"
                         },
                         {
@@ -472,7 +472,7 @@
                             "type": "iframe",
                             "title" : "Nguyễn Đình Chiểu (1822 - 1888), nhà thơ lớn, nhà văn hóa kiệt xuất",
 							"short_description" : "2021, Nguyễn Chí Bền, Nxb FEFU. (Chữ Nga – chữ Việt)",
-                            "thumb_url" : "./assets/ndc_data/bai_viet_va_cong_trinh_nghien_cuu/27. IV.2.S27 - bìa.jpg",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/bai_viet_va_nghien_cuu/27. IV.2.S27 - bìa.jpg",
                             "content_url" : "https://online.pubhtml5.com/wycd/qdim/"
                         }
                     ]
@@ -487,7 +487,7 @@
 							"type": "iframe",
 							"title" : "Lục Vân Tiên ca diễn do Abel des Michels dịch ra tiếng Pháp",
 							"short_description" : "Ernest Leroux xuất bản năm 1883",
-							"thumb_url" : "./assets/ndc_data/43/1. IV.3.S2 -LVTCD 1883 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tac_pham_luc_van_tien_ra_the_gioi/1. IV.3.S2 -LVTCD 1883 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/mccy/"
 						},
 						{
@@ -495,7 +495,7 @@
 							"type": "iframe",
 							"title" : "Lục Vân Tiên Poème Annamite de Nguyễn Đình Chiểu",
 							"short_description" : "Năm 1927, Nghiêm Liễn dịch sang tiếng Pháp, Lê Văn Tân (Hà Nội) in ấn",
-							"thumb_url" : "./assets/ndc_data/43/29. IV.3.S5 năm 1927 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tac_pham_luc_van_tien_ra_the_gioi/29. IV.3.S5 năm 1927 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/dlum/"
 						},
 						{
@@ -503,7 +503,7 @@
 							"type": "iframe",
 							"title" : "Lục Vân Tiên, tập 1",
 							"short_description" : "Năm 1944, Dương Quảng Hàm, Alexandre De Rhodes (Hà Nội) xuất bản",
-							"thumb_url" : "./assets/ndc_data/43/30. IV.3.S6- 1944. TAP 1 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tac_pham_luc_van_tien_ra_the_gioi/30. IV.3.S6- 1944. TAP 1 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/qlbm/"
 						},
 						{
@@ -511,7 +511,7 @@
 							"type": "iframe",
 							"title" : "Lục Vân Tiên, tập 2",
 							"short_description" : "Năm 1945, Dương Quảng Hàm, Alexandre De Rhodes (Hà Nội) xuất bản",
-							"thumb_url" : "./assets/ndc_data/43/31. IV.3.S7 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tac_pham_luc_van_tien_ra_the_gioi/31. IV.3.S7 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/ozzk/"
 						},
 						{
@@ -519,7 +519,7 @@
 							"type": "iframe",
 							"title" : "Sách 'Lục Vân Tiên'",
 							"short_description" : "Năm 1986, dịch giả Y. Takeuchi. (Chữ Nhật - Chữ Việt)",
-							"thumb_url" : "./assets/ndc_data/43/32. IV.3.S7.1 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tac_pham_luc_van_tien_ra_the_gioi/32. IV.3.S7.1 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/ydlb/"
 						},
 						{
@@ -527,7 +527,7 @@
 							"type": "iframe",
 							"title" : "Sách 'Lục Vân Tiên – Fidélite et Trahison'",
 							"short_description" : "Năm 2004, Lê Trọng Bổng, Nxb Thế giới",
-							"thumb_url" : "./assets/ndc_data/43/33. IV.3.S8 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tac_pham_luc_van_tien_ra_the_gioi/33. IV.3.S8 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/sdfr/"
 						},
 						{
@@ -535,7 +535,7 @@
 							"type": "iframe",
 							"title" : "Lục Vân Tiên cổ tích truyện",
 							"short_description" : "tập 1, 2016, chữ Việt - Anh - Pháp",
-							"thumb_url" : "./assets/ndc_data/43/3. IV.3.S9 - LVT tap 1 - bia.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tac_pham_luc_van_tien_ra_the_gioi/3. IV.3.S9 - LVT tap 1 - bia.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/rucb/"
 						},
 						{
@@ -543,7 +543,7 @@
 							"type": "iframe",
 							"title" : "Lục Vân Tiên cổ tích truyện",
 							"short_description" : "tập 2, 2016, chữ Việt - Anh - Pháp",
-							"thumb_url" : "./assets/ndc_data/43/4. IV.3.S9 - LVT tap 2 - bia.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tac_pham_luc_van_tien_ra_the_gioi/4. IV.3.S9 - LVT tap 2 - bia.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/vqgu/"
 						}
 					]
@@ -558,7 +558,7 @@
 							"type": "iframe",
 							"title" : "Lễ Hội truyền thống văn hóa 1/7",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/44/3. IV.4.A3 - Lễ hội truyền thống Văn hóa 1.7 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tuong_nho_va_tri_an/3. IV.4.A3 - Lễ hội truyền thống Văn hóa 1.7 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/rqpt/"
 						},
 						{
@@ -566,7 +566,7 @@
 							"type": "iframe",
 							"title" : "Các đoàn khách (trong nước và ngoài nước) đến viếng mộ và khu lưu niệm Nguyễn Đình Chiểu",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/44/4. IV.4.A7 - DANH MỤC ẢNH CÁC ĐOÀN VIẾNG - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tuong_nho_va_tri_an/4. IV.4.A7 - DANH MỤC ẢNH CÁC ĐOÀN VIẾNG - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/ydds/"
 						},
 						{
@@ -574,7 +574,7 @@
 							"type": "iframe",
 							"title" : "Sổ lưu niệm - Bút tích các đoàn khách viếng ghi sổ lưu niệm",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/44/5. IV.4.A7.1 - Sổ lưu niệm đoàn viếng - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tuong_nho_va_tri_an/5. IV.4.A7.1 - Sổ lưu niệm đoàn viếng - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/uglr/"
 						},
 						{
@@ -582,7 +582,7 @@
 							"type": "iframe",
 							"title" : "Danh sách các công trình mang tên Danh nhân Nguyễn Đình Chiểu",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/44/8. IV.4.A10 - CÔNG TRÌNH MANG TÊN NGUYỄN ĐÌNH CHIỂU - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tuong_nho_va_tri_an/8. IV.4.A10 - CÔNG TRÌNH MANG TÊN NGUYỄN ĐÌNH CHIỂU - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/hrio/"
 						},
 						{
@@ -590,7 +590,7 @@
 							"type": "iframe",
 							"title" : "Tạp chí Văn học số 4/1972",
 							"short_description" : "chuyên san Nguyễn Đình Chiểu kỷ niệm 150 năm Ngày sinh Nguyễn Đình Chiểu, Viện Văn học xuất bản",
-							"thumb_url" : "./assets/ndc_data/44/40. IV.2.S9.JPG",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tuong_nho_va_tri_an/40. IV.2.S9.JPG",
 							"content_url" : "https://online.pubhtml5.com/wycd/chyk/"
 						},
 						{
@@ -598,7 +598,7 @@
 							"type": "iframe",
 							"title" : "Kỷ yếu Hội nghị khoa học về Nguyễn Đình Chiểu nhân kỷ niệm lần thứ 160 ngày sinh của nhà thơ (1822 - 1982)",
 							"short_description" : "1984, Sở Văn hóa Thông tin Bến Tre",
-							"thumb_url" : "./assets/ndc_data/44/41. IV.4.S6 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tuong_nho_va_tri_an/41. IV.4.S6 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/ifrn/"
 						},
 						{
@@ -606,7 +606,7 @@
 							"type": "iframe",
 							"title" : "Báo cáo khoa học (Tóm lược), Hội nghị khoa học về Nguyễn Đình Chiểu nhân kỷ niệm 160 năm Ngày sinh nhà thơ (1822 -1982)",
 							"short_description" : "Viện Khoa học tại Thành phố Hồ Chí Minh và Viện Văn học (trực thuộc Ủy ban khoa học xã hội Việt Nam) cùng tỉnh Bến Tre phối hợp tổ chức năm 1982",
-							"thumb_url" : "./assets/ndc_data/44/42. IV.4.S6.1 - BCKH  - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/tuong_nho_va_tri_an/42. IV.4.S6.1 - BCKH  - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/zafw/"
 						}
 					]
@@ -626,7 +626,7 @@
                             "type": "youtube",
                             "title" : "Nhà nghiên cứu văn hóa văn nghệ dân gian Lư Văn Hội diễn xướng Nói thơ Lục Vân Tiên",
                             "short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/51/511.png",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/noi_tho_van_tien/511.png",
                             "content_url" : "https://www.youtube.com/watch?v=jFcAepemIW0"
                         },
                         {
@@ -634,7 +634,7 @@
                             "type": "youtube",
                             "title" : "Truyền hình Bến Tre: Nói thơ Vân Tiên",
 							"short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/51/512.png",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/noi_tho_van_tien/512.png",
                             "content_url" : "https://www.youtube.com/watch?v=9DylqB7t-dE"
                         },
                         {
@@ -642,7 +642,7 @@
                             "type": "youtube",
                             "title" : "VTC 16: Nghệ thuật nói thơ Vân Tiên ở Nam Bộ",
 							"short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/51/513.png",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/noi_tho_van_tien/513.png",
                             "content_url" : "https://www.youtube.com/watch?v=AeDGMT2NuHw"
                         },
                         {
@@ -650,7 +650,7 @@
                             "type": "youtube",
                             "title" : "THVL: Việt Nam mến yêu, tập 13: Nói thơ Vân Tiên",
 							"short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/51/514.png",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/noi_tho_van_tien/514.png",
                             "content_url" : "https://www.youtube.com/watch?v=YpAwTuTkjOs"
                         },
                         {
@@ -658,7 +658,7 @@
                             "type": "youtube",
                             "title" : "Nói thơ Vân Tiên – Liên hoan dân ca Việt Nam 2013, khu vực Nam Bộ tại Long An",
 							"short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/51/515.png",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/noi_tho_van_tien/515.png",
                             "content_url" : "https://www.youtube.com/watch?v=Q5hlO060Ugw"
                         }
                     ]
@@ -673,7 +673,7 @@
                             "type": "youtube",
                             "title" : "GƯƠNG SÁNG CỤ ĐỒ - Thể điệu Phụng hoàng lai nghi 10 câu",
 							"short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/52/522.png",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/don_ca_tai_tu/522.png",
                             "content_url" : "https://www.youtube.com/watch?v=6H9GJeK45co"
                         },
                         {
@@ -681,7 +681,7 @@
                             "type": "youtube",
                             "title" : "TINH THẦN ĐỒ CHIỂU HÔM NAY - Thể điệu Tây thi 26 câu",
                             "short_description" : "",
-                            "thumb_url" : "./assets/ndc_data/52/521.png",
+                            "thumb_url" : "https://data.sgallery.vn/ndc/don_ca_tai_tu/521.png",
                             "content_url" : "https://www.youtube.com/watch?v=AksiqjPr62U"
                         }
                     ]
@@ -696,7 +696,7 @@
 							"type": "youtube",
 							"title" : "Cải Lương Lục Vân Tiên Và Kiều Nguyệt Nga, Bạch Tuyết Thanh Sang và Út Trà Ôn",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/53/531.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/san_khau_cai_luong/531.png",
 							"content_url" : "https://www.youtube.com/watch?v=mFAHu33AErU"
 						},
 						{
@@ -704,7 +704,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên – Tài Linh, Minh Phụng",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/53/532.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/san_khau_cai_luong/532.png",
 							"content_url" : "https://www.youtube.com/watch?v=qubG_86MqfY"
 						},
 						{
@@ -712,7 +712,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Kiều Nguyệt Nga, Vũ Luân, Tú Sương…",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/53/533.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/san_khau_cai_luong/533.png",
 							"content_url" : "https://www.youtube.com/watch?v=mfvC50pcWiQ"
 						},
 						{
@@ -720,7 +720,7 @@
 							"type": "youtube",
 							"title" : "Trích đoạn cải lương: Kiều Nguyệt Nga - NSND Bạch Tuyết - NSƯT Thanh Sang",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/53/534.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/san_khau_cai_luong/534.png",
 							"content_url" : "https://www.youtube.com/watch?v=HIKwbY8wERY"
 						},
 						{
@@ -728,7 +728,7 @@
 							"type": "youtube",
 							"title" : "Trích đoạn Lục Vân Tiên - Cung bậc phương Nam - THĐT",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/53/535.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/san_khau_cai_luong/535.png",
 							"content_url" : "https://www.youtube.com/watch?v=6mJu1gonGcc"
 						}
 					]
@@ -743,7 +743,7 @@
 							"type": "youtube",
 							"title" : "Nhạc kịch Tiên Nga",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/54/541.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/nhac_kich/541.png",
 							"content_url" : "https://www.youtube.com/watch?v=41bvTlyk_FQ"
 						},
 						{
@@ -751,7 +751,7 @@
 							"type": "youtube",
 							"title" : "Phần kết nhạc kịch Tiên Nga",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/54/542.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/nhac_kich/542.png",
 							"content_url" : "https://www.youtube.com/watch?v=M7gUV-F00-E"
 						},
 						{
@@ -759,7 +759,7 @@
 							"type": "youtube",
 							"title" : "Tiên Nga nhạc kịch_ Tôi, Một Người Mù - Thành Lộc và dàn đồng ca (âm nhạc_ Đức Trí)",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/54/543.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/nhac_kich/543.png",
 							"content_url" : "https://www.youtube.com/watch?v=DMt-5NIbx6I"
 						},
 						{
@@ -767,7 +767,7 @@
 							"type": "youtube",
 							"title" : "Tôi, Kiều Nguyệt Nga - nhạc kịch Tiên Nga (Lê Phương)",
 							"short_description" : "Các đoàn khách đến tham quan đền thờ Nguyễn Đình Chiểu",
-							"thumb_url" : "./assets/ndc_data/54/544.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/nhac_kich/544.png",
 							"content_url" : "https://www.youtube.com/watch?v=DjF-aTZZNYU"
 						}
 					]
@@ -782,7 +782,7 @@
 							"type": "youtube",
 							"title" : "Trích phim Người Học Trò Đất Gia Định Xưa",
 							"short_description" : "Việt Trinh, Yến Vy, Công Ninh",
-							"thumb_url" : "./assets/ndc_data/55/551.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/551.png",
 							"content_url" : "https://www.youtube.com/watch?v=FdkXd2Q4bTw"
 						},
 						{
@@ -790,7 +790,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 1 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/552.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/552.png",
 							"content_url" : "https://www.youtube.com/watch?v=cHDRmi1Y2pI&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf"
 						},
 						{
@@ -798,7 +798,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 2 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/553.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/553.png",
 							"content_url" : "https://www.youtube.com/watch?v=BnlwSPBQV_M&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=2"
 						},
 						{
@@ -806,7 +806,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 3 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/554.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/554.png",
 							"content_url" : "https://www.youtube.com/watch?v=ZenG3o2kF88&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=3"
 						},
 						{
@@ -814,7 +814,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 4 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/555.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/555.png",
 							"content_url" : "https://www.youtube.com/watch?v=8oPgienKV0A&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=4"
 						},
 						{
@@ -822,7 +822,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 5 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/556.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/556.png",
 							"content_url" : "https://www.youtube.com/watch?v=Elr3x7U0E1s&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=5"
 						},
 						{
@@ -830,7 +830,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 6 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/557.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/557.png",
 							"content_url" : "https://www.youtube.com/watch?v=aLVeAymqDbU&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=6"
 						},
 						{
@@ -838,7 +838,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 7 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/558.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/558.png",
 							"content_url" : "https://www.youtube.com/watch?v=pfQhlZuPm-U&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=7"
 						},
 						{
@@ -846,7 +846,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 8 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/559.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/559.png",
 							"content_url" : "https://www.youtube.com/watch?v=3LihHqn1LkU&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=8"
 						},
 						{
@@ -854,7 +854,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 9 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/5510.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/5510.png",
 							"content_url" : "https://www.youtube.com/watch?v=5DhzZDhvbiI&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=9"
 						},
 						{
@@ -862,7 +862,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 10 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/5511.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/5511.png",
 							"content_url" : "https://www.youtube.com/watch?v=I1GEr7RRNZk&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=10"
 						},
 						{
@@ -870,7 +870,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 11 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/5512.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/5512.png",
 							"content_url" : "https://www.youtube.com/watch?v=rMfsQkLFmXE&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=11"
 						},
 						{
@@ -878,7 +878,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 12 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/5513.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/5513.png",
 							"content_url" : "https://www.youtube.com/watch?v=OMF7cYWWNPA&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=12"
 						},
 						{
@@ -886,7 +886,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 13 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/5514.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/5514.png",
 							"content_url" : "https://www.youtube.com/watch?v=rQ2OsbUgcyo&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=13"
 						},
 						{
@@ -894,7 +894,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên - Tập 14 - TFS Phim Việt Nam Hay Nhất 2002",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/55/5515.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_truyen_hinh/5515.png",
 							"content_url" : "https://www.youtube.com/watch?v=49lLkPay5Bw&list=PL3qoI_xs3T5kfQCdtqill9H1UZ4Mzrjaf&index=14"
 						}
 					]
@@ -909,7 +909,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên Chương 1",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/56/561.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/hop_xuong/561.png",
 							"content_url" : "https://www.youtube.com/watch?v=cAVSlsMagjk"
 						},
 						{
@@ -917,7 +917,7 @@
 							"type": "youtube",
 							"title" : "Lục Vân Tiên Chương 2",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/56/562.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/hop_xuong/562.png",
 							"content_url" : "https://www.youtube.com/watch?v=Hqx7VR7A71A"
 						}
 					]
@@ -932,7 +932,7 @@
 							"type": "youtube",
 							"title" : "Bến Tre nhớ cụ Đồ Chiểu",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/57/571.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_tu_lieu/571.png",
 							"content_url" : "https://www.youtube.com/watch?v=9BwxThsXmSM"
 						},
 						{
@@ -940,7 +940,7 @@
 							"type": "youtube",
 							"title" : "Người Bến Tre",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/57/572.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_tu_lieu/572.png",
 							"content_url" : "https://www.youtube.com/watch?v=9NPjzFPvtng"
 						},
 						{
@@ -948,7 +948,7 @@
 							"type": "youtube",
 							"title" : "Nhớ cụ Đồ",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/57/573.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_tu_lieu/573.png",
 							"content_url" : "https://www.youtube.com/watch?v=8LLvkbvMAZ4"
 						},
 						{
@@ -956,7 +956,7 @@
 							"type": "youtube",
 							"title" : "Tháng bảy trên quê hương Đồ Chiểu",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/57/574.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_tu_lieu/574.png",
 							"content_url" : "https://www.youtube.com/watch?v=1qapmMlyykg"
 						},
 						{
@@ -964,7 +964,7 @@
 							"type": "youtube",
 							"title" : "UNESCO vinh danh Nhà thơ Nguyễn Đình Chiểu",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/57/575.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_tu_lieu/575.png",
 							"content_url" : "https://www.youtube.com/watch?v=bqK6-cvYF7U"
 						},
 						{
@@ -972,7 +972,7 @@
 							"type": "youtube",
 							"title" : "Về Ba Tri làm phim cụ Đồ",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/57/576.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_tu_lieu/576.png",
 							"content_url" : "https://www.youtube.com/watch?v=MJeSBqJW1Pc"
 						},
 						{
@@ -980,7 +980,7 @@
 							"type": "youtube",
 							"title" : "Ánh sao khuê Nguyễn Đình Chiểu",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/57/577.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_tu_lieu/577.png",
 							"content_url" : "https://www.youtube.com/watch?v=QMbd5LPFMFw"
 						},
 						{
@@ -988,7 +988,7 @@
 							"type": "youtube",
 							"title" : "THVL – Phim tài liệu Nam Bộ xưa và nay – Tập 25: Khí tiết Đồ Chiểu",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/57/578.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_tu_lieu/578.png",
 							"content_url" : "https://www.youtube.com/watch?v=9uqvK21JOWw"
 						},
 						{
@@ -996,7 +996,7 @@
 							"type": "youtube",
 							"title" : "Danh nhân đất Việt “Cụ Đồ Chiểu”",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/57/579.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_tu_lieu/579.png",
 							"content_url" : "https://www.youtube.com/watch?v=pjMq_6SObvY"
 						},
 						{
@@ -1004,7 +1004,7 @@
 							"type": "youtube",
 							"title" : "Nguyễn Đình Chiểu và 8 năm ở Huế",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/57/5710.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_tu_lieu/5710.png",
 							"content_url" : "https://www.youtube.com/watch?v=VMAV-XhAuWE&list=RDCMUCrSZZYJyO4FNLFHpqZu226Q&start_radio=1&rv=VMAV-XhAuWE&t=0"
 						},
 						{
@@ -1012,7 +1012,7 @@
 							"type": "youtube",
 							"title" : "Phim tài liệu Nguyễn Đình Chiểu với xứ dừa xanh Trung tâm THVN tại Huế - VTV Huế",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/57/5711.png",
+							"thumb_url" : "https://data.sgallery.vn/ndc/phim_tu_lieu/5711.png",
 							"content_url" : "https://www.youtube.com/watch?v=8239lLHsgkQ"
 						}
 					]
@@ -1026,7 +1026,7 @@
 							"type": "iframe",
 							"title" : "Giới thiệu Câu lạc bộ Thơ Ba Tri",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/58/1. Giới thiệu câu lạc bộ thơ Ba Tri.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/1. Giới thiệu câu lạc bộ thơ Ba Tri.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/hnar/"
 						},
 						{
@@ -1034,7 +1034,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 03",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/KN tập 175 - tập 3 - bìa.JPG",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/KN tập 175 - tập 3 - bìa.JPG",
 							"content_url" : "https://online.pubhtml5.com/wycd/ynxp/"
 						},
 						{
@@ -1042,7 +1042,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 04",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/KN 176 - TAP 4 - BÌA.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/KN 176 - TAP 4 - BÌA.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/fawt/"
 						},
 						{
@@ -1050,7 +1050,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 05",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/KN 177 - tập 5 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/KN 177 - tập 5 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/mrkd/"
 						},
 						{
@@ -1058,7 +1058,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 06",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Kỷ niệm 178 - tập 6 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Kỷ niệm 178 - tập 6 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/crda/"
 						},
 						{
@@ -1066,7 +1066,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 07",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/KN 179 - Tập 7 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/KN 179 - Tập 7 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/lwtf/"
 						},
 						{
@@ -1074,7 +1074,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 08",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Tập 8 - 2022 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Tập 8 - 2022 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/fubj/"
 						},
 						{
@@ -1082,7 +1082,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 09",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Tập 181 - tập 9 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Tập 181 - tập 9 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/gfrc/"
 						},
 						{
@@ -1090,7 +1090,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 10",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Kỷ niệm 182 - tập 10 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Kỷ niệm 182 - tập 10 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/kmrg/"
 						},
 						{
@@ -1098,7 +1098,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 11",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Kỷ niệm 183 - tập 11 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Kỷ niệm 183 - tập 11 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/iwti/"
 						},
 						{
@@ -1106,7 +1106,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 12",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Kỷ niệm 184 năm - tập 12 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Kỷ niệm 184 năm - tập 12 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/zkfp/"
 						},
 						{
@@ -1114,7 +1114,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 13",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Kỷ niệm 185 - tập 13 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Kỷ niệm 185 - tập 13 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/mbor/"
 						},
 						{
@@ -1122,7 +1122,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 14",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Kỷ niệm 186 - tập 14 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Kỷ niệm 186 - tập 14 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/jzgz/"
 						},
 						{
@@ -1130,7 +1130,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 15",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Kỷ niệm 187 - tập 15 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Kỷ niệm 187 - tập 15 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/ldlh/"
 						},
 						{
@@ -1138,7 +1138,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 16",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/kỶ niệm 188 - tập 16 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/kỶ niệm 188 - tập 16 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/tgvz/"
 						},
 						{
@@ -1146,7 +1146,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 17",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/17. KỶ NIỆM 189 - TẬP 17 - 2011 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/17. KỶ NIỆM 189 - TẬP 17 - 2011 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/iucv/"
 						},
 						{
@@ -1154,7 +1154,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 18",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Kỷ niệm 190 - tập 18 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Kỷ niệm 190 - tập 18 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/kkdn/"
 						},
 						{
@@ -1162,7 +1162,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 19",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/KỶ  NIÊM 191 -TAP 19 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/KỶ  NIÊM 191 -TAP 19 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/slqd/"
 						},
 						{
@@ -1170,7 +1170,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 20",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Kỷ niệm 192 - tập 20 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Kỷ niệm 192 - tập 20 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/mpul/"
 						},
 						{
@@ -1178,7 +1178,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 21",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/KỶ NIỆM 193 -TẬP 21 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/KỶ NIỆM 193 -TẬP 21 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/pmtq/"
 						},
 						{
@@ -1186,7 +1186,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ - KỶ NIỆM TẬP 22",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/Kỷ niệm 194 - tập 22 - bìa.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/Kỷ niệm 194 - tập 22 - bìa.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/pkrd/"
 						},
 						{
@@ -1194,7 +1194,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ -KỶ NIỆM TẬP 23 -NĂM 2017",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/58/6 .KỶ NIỆM -GƯƠNG SÁNG CỤ ĐỒ - TẬP 23- 2017.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/6 .KỶ NIỆM -GƯƠNG SÁNG CỤ ĐỒ - TẬP 23- 2017.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/fbhv/"
 						},
 						{
@@ -1202,7 +1202,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ -KỶ NIỆM TẬP 24 -NĂM 2018",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/58/5. GƯƠNG SÁNG CỤ ĐỒ -TẬP 24 -2019.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/5. GƯƠNG SÁNG CỤ ĐỒ -TẬP 24 -2019.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/pesz/"
 						},
 						{
@@ -1210,7 +1210,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ -KỶ NIỆM TẬP 25 -NĂM 2019",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/58/4 .KỶ NIỆM -GƯƠNG SÁNG CỤ ĐỒ -TẬP 25- 2018.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/4 .KỶ NIỆM -GƯƠNG SÁNG CỤ ĐỒ -TẬP 25- 2018.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/zago/"
 						},
 						{
@@ -1218,7 +1218,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ -KỶ NIỆM TẬP 26 -NĂM 2021",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/58/3. GƯƠNG SÁNG CỤ ĐỒ -TẬP 26 -2021.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/3. GƯƠNG SÁNG CỤ ĐỒ -TẬP 26 -2021.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/yrpl/"
 						},
 						{
@@ -1226,7 +1226,7 @@
 							"type": "iframe",
 							"title" : "GƯƠNG SÁNG CỤ ĐỒ -KỶ NIỆM TẬP 27 -NĂM 2021",
 							"short_description" : "",
-							"thumb_url" : "./assets/ndc_data/cau_lac_bo_tho_batri/6. IV.1.S14.jpg",
+							"thumb_url" : "https://data.sgallery.vn/ndc/clb_tho_batri/6. IV.1.S14.jpg",
 							"content_url" : "https://online.pubhtml5.com/wycd/ysyh/"
 						}
 					]
