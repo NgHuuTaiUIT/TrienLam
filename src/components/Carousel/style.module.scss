@@ -30,3 +30,25 @@
     background-image: url("../../assets/icon/chevron-left.svg") !important;
   }
 }
+
+.wrapContent {
+
+  .imgCard {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      background-image: url('../../assets/icon/play-black.svg');
+      background-size: cover;
+      height: 70px;
+      width: 70px;
+      transition:all 0.2s;
+  }
+  
+  &:hover{
+    .imgCard {
+      width: 100px;
+      height: 100px;
+    }
+  }
+}

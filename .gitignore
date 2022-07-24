@@ -4,13 +4,14 @@
 /node_modules
 /.pnp
 .pnp.js
-
+public/assets/ndc
 # testing
 /coverage
 # production
 public/ndc_data
 
 # misc
+.rar
 .DS_Store
 .env.local
 .env.development.local

@@ -2,10 +2,7 @@ import axios from "axios";
 import { cloneDeep } from "lodash";
 import { useContext, useEffect, useState } from "react";
 import ReactPlayer from 'react-player';
-import { IframeContext, IframeProvider } from "../../context/ContentIframe";
-import { useGetData } from "../../hooks/useGetData";
-import { useWindowSize } from "../../hooks/useWindowSize";
-import { getCategories, getData } from "../../utils/getData";
+import { IframeContext } from "../../context/ContentIframe";
 import "./style.scss";
 import TabItem from "./tab-item";
 
@@ -16,12 +13,14 @@ function Tabs() {
 
   useEffect(() => {
     const callData = async () => {
-      let res = await axios.get(`${process.env.PUBLIC_URL}/assets/data/data.json`);
-      if(res.data){
-        setCategories(cloneDeep(res.data.categories));
-      }
-      else {
-        setCategories(getCategories());
+      if(window.navigator.onLine){
+        let res = await axios.get(`${process.env.PUBLIC_URL}/assets/data/data.json`);
+          setCategories(cloneDeep(res.data.categories));
+        
+      }else
+      {
+        let res = await axios.get(`${process.env.PUBLIC_URL}/assets/data/data_offline.json`);
+          setCategories(cloneDeep(res.data.categories));
       }
     }
     callData();

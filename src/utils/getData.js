@@ -1,9 +1,9 @@
 import { cloneDeep } from "lodash";
-import datas from "../assets/data/data.json";
+// import datas from "../assets/data/data_offline.json";
 
-export const getCategories = id => {
-  return datas.categories;
-};
+// export const getCategories = id => {
+//   return datas.categories;
+// };
 
 export const getData = () =>{
   let data;
