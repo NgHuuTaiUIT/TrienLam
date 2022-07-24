@@ -1,5 +1,8 @@
 import { useContext, useEffect, useState } from "react";
 import { IframeContext } from "../../context/ContentIframe";
+import classNames from "../../utils/class-names";
+import styles from "./style.module.scss";
+
 var x = 0;
 
 const Card = ({ maxWidth, data }) => {
@@ -43,12 +46,17 @@ const Card = ({ maxWidth, data }) => {
             setShow(true);
           }
         }}>
+          <div className={classNames("relative",styles.wrapContent)}>
+
+      {(type === 'video' || type === 'youtube') && <div className={styles.imgCard}>
+        </div>}
       <img
-        className="w-full h-[442px] rounded"
+        className={classNames("w-full h-[442px] rounded")}
         // src={`./assets/${thumb_url.slice(2)}`}
         src={srcImg}
         alt="Sunset in the mountains"
-      />
+        />
+        </div>
       <div className="p-1">
         <div className="font-semibold text-center text-text-cl mb-1  break-normal line-clamp-2 text-ellipsis text-[14px] md:text-[20px] min-h-[30px] md:min-h-[60px]">
           {title}

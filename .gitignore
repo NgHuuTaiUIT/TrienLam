@@ -11,6 +11,7 @@ public/assets/ndc
 public/ndc_data
 
 # misc
+.rar
 .DS_Store
 .env.local
 .env.development.local

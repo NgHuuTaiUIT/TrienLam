@@ -17,19 +17,19 @@ const Carousel = ({ data }) => {
       {
         breakpoint: 1440,
         settings: {
-          slidesToShow: 4
+          slidesToShow: data.slides_per_view > 4 ? 4 : data.slides_per_view
         }
       },
       {
         breakpoint: 1024,
         settings: {
-          slidesToShow: 3
+          slidesToShow: data.slides_per_view > 3 ? 3 : 1
         }
       },
       {
         breakpoint: 780,
         settings: {
-          slidesToShow: 2
+          slidesToShow: data.slides_per_view > 2 ? 2 : 1
         }
       },
       {
